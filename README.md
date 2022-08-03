@@ -2,8 +2,8 @@
 
 Description: Drumkit project with vanilla js - course by Wesbos
 
-code : https://github.com/mohit-negi/DrumKit
-Preview : https://mohit-negi.github.io/DrumKit/
+- code : https://github.com/mohit-negi/DrumKit
+- Preview : https://mohit-negi.github.io/DrumKit/
 
 ### It took me 3hrs 
 
