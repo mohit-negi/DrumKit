@@ -31,12 +31,14 @@ html {
     background: rgba(0,0,0,0.4);
     text-shadow: 0 0 .5rem black;
   }
+  /*
   .key:hover{
     background: #030d59;
     opacity:0.8;
     color: white;
     border: 3px yellowgreen solid;
   }
+  */
   .playing {
     transform: scale(1.1);
     border-color: #ffc600;
